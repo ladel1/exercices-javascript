@@ -1,24 +1,23 @@
 # 🚀 Exercices JavaScript - Débutant à Avancé
 
-Ce dépôt contient une collection d'exercices JavaScript classés du niveau débutant au niveau avancé. Chaque exercice vous permet de pratiquer différentes facettes du langage. La solution complète est cachée dans un seul bloc de code à la fin de ce document.
+Ce dépôt contient une collection d'exercices JavaScript classés du niveau débutant au niveau avancé. Chaque exercice vous permet de pratiquer différentes facettes du langage. La solution complète est cachée.
 
 ---
 
 ## Table des Matières
 
 - [Exercices Débutant](#exercices-débutant)
-- [Exercices Intermédiaire](#exercices-intermédiaire)
-- [Exercices Avancé](#exercices-avancé)
-- [Corrections](#corrections)
+- [Exercices Intermédiaire](#exercices-intermédiaire) (en cours)
+- [Exercices Avancé](#exercices-avancé) (en cours)
 
 ---
 
 ## 🔹 Débutant (20 Exercices)
 
 ### 1. Afficher "Hello, World!" dans la console
-```javascript
-// Écrivez votre code ici
-```
+## Teste ton code ici !
+[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+
 <details>
   <summary>Solution</summary>
 
@@ -28,9 +27,9 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 </details>
 
 ### 2. Déclarer deux variables et les additionner
-```javascript
-// Écrivez votre code ici
-```
+## Teste ton code ici !
+[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+
 <details>
   <summary>Solution</summary>
 
@@ -41,9 +40,9 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 </details>
 
 ### 3. Vérifier si un nombre est pair ou impair
-```javascript
-// Écrivez votre code ici
-```
+## Teste ton code ici !
+[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+
 <details>
   <summary>Solution</summary>
 
@@ -56,9 +55,9 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 </details>
 
 ### 4. Trouver le maximum entre trois nombres
-```javascript
-// Écrivez votre code ici
-```
+## Teste ton code ici !
+[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+
 <details>
   <summary>Solution</summary>
 
@@ -71,9 +70,9 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 </details>
 
 ### 5. Inverser une chaîne de caractères
-```javascript
-// Écrivez votre code ici
-```
+## Teste ton code ici !
+[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+
 <details>
   <summary>Solution</summary>
 
@@ -86,9 +85,9 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 </details>
 
 ### 6. Calculer la somme des éléments d’un tableau
-```javascript
-// Écrivez votre code ici
-```
+## Teste ton code ici !
+[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+
 <details>
   <summary>Solution</summary>
 
@@ -101,9 +100,9 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 </details>
 
 ### 7. Générer un nombre aléatoire entre 1 et 100
-```javascript
-// Écrivez votre code ici
-```
+## Teste ton code ici !
+[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+
 <details>
   <summary>Solution</summary>
 
@@ -116,9 +115,9 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 </details>
 
 ### 8. Compter le nombre de voyelles dans une chaîne
-```javascript
-// Écrivez votre code ici
-```
+## Teste ton code ici !
+[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+
 <details>
   <summary>Solution</summary>
 
@@ -131,9 +130,9 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 </details>
 
 ### 9. Vérifier si une année est bissextile
-```javascript
-// Écrivez votre code ici
-```
+## Teste ton code ici !
+[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+
 <details>
   <summary>Solution</summary>
 
@@ -146,9 +145,9 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 </details>
 
 ### 10. Trouver le plus petit élément d’un tableau
-```javascript
-// Écrivez votre code ici
-```
+## Teste ton code ici !
+[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+
 <details>
   <summary>Solution</summary>
 
@@ -162,9 +161,9 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 
 ### 11. Vérifier si un mot est un palindrome
 
-```javascript
-// Écrivez votre code ici
-```
+## Teste ton code ici !
+[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+
 <details>
   <summary>Solution</summary>
 
