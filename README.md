@@ -16,7 +16,8 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 
 ### 1. Afficher "Hello, World!" dans la console
 ## Teste ton code ici !
-[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+<a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">Ouvrir cet exercice dans JSFiddle</a>
+
 
 <details>
   <summary>Solution</summary>
@@ -28,7 +29,8 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 
 ### 2. Déclarer deux variables et les additionner
 ## Teste ton code ici !
-[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+<a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">Ouvrir cet exercice dans JSFiddle</a>
+
 
 <details>
   <summary>Solution</summary>
@@ -41,7 +43,8 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 
 ### 3. Vérifier si un nombre est pair ou impair
 ## Teste ton code ici !
-[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+<a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">Ouvrir cet exercice dans JSFiddle</a>
+
 
 <details>
   <summary>Solution</summary>
@@ -56,7 +59,8 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 
 ### 4. Trouver le maximum entre trois nombres
 ## Teste ton code ici !
-[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+<a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">Ouvrir cet exercice dans JSFiddle</a>
+
 
 <details>
   <summary>Solution</summary>
@@ -71,7 +75,8 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 
 ### 5. Inverser une chaîne de caractères
 ## Teste ton code ici !
-[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+<a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">Ouvrir cet exercice dans JSFiddle</a>
+
 
 <details>
   <summary>Solution</summary>
@@ -86,7 +91,8 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 
 ### 6. Calculer la somme des éléments d’un tableau
 ## Teste ton code ici !
-[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+<a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">Ouvrir cet exercice dans JSFiddle</a>
+
 
 <details>
   <summary>Solution</summary>
@@ -101,7 +107,8 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 
 ### 7. Générer un nombre aléatoire entre 1 et 100
 ## Teste ton code ici !
-[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+<a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">Ouvrir cet exercice dans JSFiddle</a>
+
 
 <details>
   <summary>Solution</summary>
@@ -116,7 +123,8 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 
 ### 8. Compter le nombre de voyelles dans une chaîne
 ## Teste ton code ici !
-[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+<a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">Ouvrir cet exercice dans JSFiddle</a>
+
 
 <details>
   <summary>Solution</summary>
@@ -131,7 +139,8 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 
 ### 9. Vérifier si une année est bissextile
 ## Teste ton code ici !
-[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+<a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">Ouvrir cet exercice dans JSFiddle</a>
+
 
 <details>
   <summary>Solution</summary>
@@ -146,7 +155,8 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 
 ### 10. Trouver le plus petit élément d’un tableau
 ## Teste ton code ici !
-[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+<a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">Ouvrir cet exercice dans JSFiddle</a>
+
 
 <details>
   <summary>Solution</summary>
@@ -162,7 +172,8 @@ Ce dépôt contient une collection d'exercices JavaScript classés du niveau dé
 ### 11. Vérifier si un mot est un palindrome
 
 ## Teste ton code ici !
-[Ouvrir cet exercice dans JSFiddle](https://jsfiddle.net/)
+<a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">Ouvrir cet exercice dans JSFiddle</a>
+
 
 <details>
   <summary>Solution</summary>
